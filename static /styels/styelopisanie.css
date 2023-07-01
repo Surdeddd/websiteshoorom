@@ -1,0 +1,25 @@
+.opisanie{
+    display: flex;
+    justify-content: center;
+    padding-top:15px ;
+    padding-left: 8px;
+    padding-right: 7px;
+}
+.opisanie p{
+    /* font-family: cursive; */
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;*/
+    font-family: Snell Roundhand, cursive;
+    font-size: 25px;
+    /* font-family: New Century Schoolbook, TeX Gyre Schola, serif; */
+    text-align: center;
+} 
+.opisanie a{
+    text-decoration: none;
+}
+.opisanie img{
+    width: 20px;
+    margin: 0;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 0;
+}

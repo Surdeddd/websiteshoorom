@@ -1,0 +1,15 @@
+.nazvanie{
+    display: flex;
+    justify-content: center;
+}
+.nazvanie>img{
+    width: 350px;
+    padding-top:  80px;
+
+}
+@media (max-width:370px){
+    .nazvanie>img{
+        width: 300px;
+    }
+} 
+
